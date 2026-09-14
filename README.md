@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Ambitious full stack web developer fresher with expertise in C#.NET, ASP.NET, MVC, Angular and front-end technologies. Proven ability to quickly grasp new concepts and technologies. Adept at collaborative problem-solving, with a passion for creating efficient and innovative solutions. Eager to apply academic knowledge in a professional setting and contribute to dynamic projects.
+Full Stack Developer with hands-on experience building scalable web applications using .NET Core, ASP.NET Core Web API,
+React.js, and PostgreSQL. Proficient in RESTful API development, Entity Framework Core, backend performance optimization, and responsive user interfaces. Experienced in Agile teams, enterprise tools, modular applications, and microservicesbased solutions. Strong problem-solving ability with a focus on reliable, maintainable full-stack development.
 
 * 🌍  I'm based in Chennai,India
 * ✉️  You can contact me at [mohamedafzar.r@gmail.com](mailto:mohamedafzar.r@gmail.com)
