@@ -13,7 +13,7 @@ Strong problem-solving ability with a focus on building **reliable, maintainable
 - 🎓 **MCA Final Year — Result Awaited**
 - ✉️ You can contact me at **[mohamedafzar.r@gmail.com](mailto:mohamedafzar.r@gmail.com)**
 - 💻 GitHub: **[MohamedAfzar](https://github.com/MohamedAfzar)**
-- 🔗 LinkedIn: **[Mohamed Afzar](https://www.linkedin.com/in/mohamed-afzar-4422602bo)**
+- 🔗 LinkedIn: **[Mohamed Afzar](https://www.linkedin.com/in/mohamed-afzar-4422602b0)**
 
 ---
 
