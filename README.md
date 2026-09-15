@@ -12,6 +12,7 @@ Strong problem-solving ability with a focus on building **reliable, maintainable
 - 💼 Former **Software Engineer Trainee at ProTeam Softwares India Pvt. Ltd.**
 - 🎓 **MCA Final Year — Result Awaited**
 - ✉️ You can contact me at **[mohamedafzar.r@gmail.com](mailto:mohamedafzar.r@gmail.com)**
+- 🌐 Portfolio: **[Mohamed Afzar](https://my-portfolio-five-navy-vw3ov4wlxt.vercel.app/)**
 - 💻 GitHub: **[MohamedAfzar](https://github.com/MohamedAfzar)**
 - 🔗 LinkedIn: **[Mohamed Afzar](https://www.linkedin.com/in/mohamed-afzar-4422602b0)**
 
